@@ -1,2 +1,1 @@
-# HackerRankPractice
-Java hacker rank practice problems
+# HackerRank 30 Days of Code using JAVA
