@@ -28,8 +28,7 @@ public class DictionariesAndMaps {
         while (in.hasNext()) {
             String s = in.next();
             // Write code here
-            Integer phoneNumber = phoneBook.get(s);
-                if (phoneNumber != null) {
+                if (phoneBook.get(s) != null) {
                     System.out.println(s + "=" + phoneBook.get(s));
                 } else {
                     System.out.println("Not found");
