@@ -47,34 +47,34 @@
     <session id="578041538">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.45" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="2" />
-          <entry key="java" value="28" />
+          <entry key="java" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="3193" />
+          <entry key="java" value="5371" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3193" />
+          <entry key="JAVA" value="5371" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -83,10 +83,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day20/src/sorting/BubbleSort.java">
+        <entry file="file://$PROJECT_DIR$/Day23/src/breadthfirstsearch/LevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-154">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="72">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,6 +132,17 @@
         <option value="$PROJECT_DIR$/Day19/src/interfaces/AdvancedArithmetic.java" />
         <option value="$PROJECT_DIR$/Day19/src/interfaces/Solution.java" />
         <option value="$PROJECT_DIR$/Day20/src/sorting/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/Day21/src/genericsPractice/ArrayPractice.java" />
+        <option value="$PROJECT_DIR$/Day21/src/genericsPractice/Generics.java" />
+        <option value="$PROJECT_DIR$/Day21/src/genericsPractice/Queuey.java" />
+        <option value="$PROJECT_DIR$/Day21/src/generics/Generics.java" />
+        <option value="$PROJECT_DIR$/Day22/src/binarySearchTree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/Day22/src/binarySearchTreePractice/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/Day22/src/binarySearchTreePractice/Tree.java" />
+        <option value="$PROJECT_DIR$/Day22/src/binarySearchTreePractice/EmptyBST.java" />
+        <option value="$PROJECT_DIR$/Day22/src/binarySearchTreePractice/NonEmptyBST.java" />
+        <option value="$PROJECT_DIR$/Day22/src/binarySearchTree/HeightBST.java" />
+        <option value="$PROJECT_DIR$/Day23/src/breadthfirstsearch/LevelOrderTraversal.java" />
       </list>
     </option>
   </component>
@@ -139,9 +153,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="793" />
-    <option name="width" value="814" />
-    <option name="height" value="867" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -152,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,36 +174,19 @@
               <item name="30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="30DaysOfCode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="30DaysOfCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="30DaysOfCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day20" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="30DaysOfCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day20" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546032796905" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546134320248" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Algorithms-Java-" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -198,7 +195,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="binarySearchTreePractice" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amazon\IdeaProjects\HackerRankPractice\30DaysOfCode\Day21\src\genericsPractice" />
       <recent name="C:\Users\amazon\IdeaProjects\HackerRankPractice\30DaysOfCode" />
     </key>
   </component>
@@ -214,13 +215,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.BubbleSort" />
-      <module name="Day20" />
+  <component name="RunManager" selected="Application.LevelOrderTraversal">
+    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericsPractice.ArrayPractice" />
+      <module name="Day21" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="genericsPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +229,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queuesAndStacksQuestion.Palindrome" />
-      <module name="Day18" />
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericsPractice.Generics" />
+      <module name="Day21" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queuesAndStacksQuestion.*" />
+          <option name="PATTERN" value="genericsPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeightBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarySearchTree.HeightBST" />
+      <module name="Day22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarySearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="breadthfirstsearch.LevelOrderTraversal" />
+      <module name="Day23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="breadthfirstsearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,37 +269,11 @@
       </method>
     </configuration>
     <configuration name="Queuey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.Queuey" />
-      <module name="Day18" />
+      <option name="MAIN_CLASS_NAME" value="genericsPractice.Queuey" />
+      <module name="Day21" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.Solution" />
-      <module name="Day19" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StartWarsInterfacePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfacesPractice.StartWarsInterfacePractice" />
-      <module name="Day19" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfacesPractice.*" />
+          <option name="PATTERN" value="genericsPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +282,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ArrayPractice" />
+      <item itemvalue="Application.Generics" />
       <item itemvalue="Application.Queuey" />
-      <item itemvalue="Application.Palindrome" />
-      <item itemvalue="Application.StartWarsInterfacePractice" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.HeightBST" />
+      <item itemvalue="Application.LevelOrderTraversal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.StartWarsInterfacePractice" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.LevelOrderTraversal" />
+        <item itemvalue="Application.HeightBST" />
         <item itemvalue="Application.Queuey" />
+        <item itemvalue="Application.Generics" />
+        <item itemvalue="Application.ArrayPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -312,18 +313,18 @@
       <workItem from="1545700013549" duration="32000" />
       <workItem from="1545943509769" duration="7391000" />
       <workItem from="1545959080456" duration="8000" />
-      <workItem from="1546025764001" duration="6651000" />
+      <workItem from="1546025764001" duration="7470000" />
+      <workItem from="1546105456897" duration="8181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14298000" />
+    <option name="totallyTimeSpent" value="23298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1368477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13791268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -332,8 +333,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3200776" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30940834" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17846751" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2114452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -373,6 +374,12 @@
           <line>19</line>
           <properties />
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Day22/src/binarySearchTree/HeightBST.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -475,16 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day18/src/queue/Queuey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day18/src/queuesAndStacksQuestion/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
@@ -510,18 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -529,14 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,8 +540,110 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day20/src/sorting/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="575">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day21/src/genericsPractice/Generics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day18/src/queue/Queuey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day21/src/genericsPractice/Stacks.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day21/src/genericsPractice/Queuey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          <folding>
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day21/src/generics/Generics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="63" />
+          <folding>
+            <element signature="e#759#768#0" expanded="true" />
+            <element signature="e#823#831#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day21/src/genericsPractice/ArrayPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day22/src/binarySearchTreePractice/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day22/src/binarySearchTreePractice/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day22/src/binarySearchTreePractice/EmptyBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day22/src/binarySearchTreePractice/NonEmptyBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1799">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day22/src/binarySearchTree/HeightBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day23/src/breadthfirstsearch/LevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
