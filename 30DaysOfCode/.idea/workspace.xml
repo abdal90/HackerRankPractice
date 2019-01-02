@@ -47,75 +47,53 @@
     <session id="578041538">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.45" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="2" />
-          <entry key="java" value="59" />
+          <entry key="java" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="59" />
+          <entry key="JAVA" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="10802" />
+          <entry key="java" value="11575" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10802" />
+          <entry key="JAVA" value="11575" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49733758">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Day28/src/RegExPatternsandIntrotoDatabases/User.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-302">
-                  <caret line="34" column="23" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="23" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Day28/src/regulareExpression/Solution.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="335">
-                  <caret line="25" column="21" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="21" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day29/src/bitwiseAND/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -174,6 +152,8 @@
         <option value="$PROJECT_DIR$/Day26/src/nestedLogic/Solution.java" />
         <option value="$PROJECT_DIR$/Day28/src/RegExPatternsandIntrotoDatabases/User.java" />
         <option value="$PROJECT_DIR$/Day28/src/regulareExpression/Solution.java" />
+        <option value="$PROJECT_DIR$/Day29/src/BitwisePractice/BitWise.java" />
+        <option value="$PROJECT_DIR$/Day29/src/bitwiseAND/Solution.java" />
       </list>
     </option>
   </component>
@@ -210,27 +190,27 @@
             <path>
               <item name="30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="30DaysOfCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day28" type="462c0819:PsiDirectoryNode" />
+              <item name="Day29" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="30DaysOfCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day28" type="462c0819:PsiDirectoryNode" />
+              <item name="Day29" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="30DaysOfCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day28" type="462c0819:PsiDirectoryNode" />
+              <item name="Day29" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RegExPatternsandIntrotoDatabases" type="462c0819:PsiDirectoryNode" />
+              <item name="bitwiseAND" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="30DaysOfCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Day28" type="462c0819:PsiDirectoryNode" />
+              <item name="Day29" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="regulareExpression" type="462c0819:PsiDirectoryNode" />
+              <item name="BitwisePractice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,7 +221,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546337736427" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546442797895" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Algorithms-Java-" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -251,13 +231,13 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="binarySearchTreePractice" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\amazon\IdeaProjects\HackerRankPractice\30DaysOfCode\Day27\src\testingPractice" />
       <recent name="C:\Users\amazon\IdeaProjects\HackerRankPractice\30DaysOfCode\Day21\src\genericsPractice" />
       <recent name="C:\Users\amazon\IdeaProjects\HackerRankPractice\30DaysOfCode" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="binarySearchTreePractice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -272,13 +252,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testingPractice.BinarySearchTree" />
-      <module name="Day27" />
+  <component name="RunManager" selected="Application.BinaryString2">
+    <configuration name="BinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitwisePractice.BinaryString" />
+      <module name="Day29" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testingPractice.*" />
+          <option name="PATTERN" value="BitwisePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testing.Solution" />
-      <module name="Day27" />
+    <configuration name="BinaryString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitwisePractice.BinaryString2" />
+      <module name="Day29" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testing.*" />
+          <option name="PATTERN" value="BitwisePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nestedLogic.Solution" />
-      <module name="Day26" />
+    <configuration name="BitWise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitwisePractice.BitWise" />
+      <module name="Day29" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nestedLogic.*" />
+          <option name="PATTERN" value="BitwisePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,19 +319,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearchTree" />
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.User" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.BitWise" />
+      <item itemvalue="Application.BinaryString" />
+      <item itemvalue="Application.BinaryString2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryString2" />
+        <item itemvalue="Application.BinaryString" />
+        <item itemvalue="Application.BitWise" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.User" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.BinarySearchTree" />
       </list>
     </recent_temporary>
   </component>
@@ -372,18 +352,19 @@
       <workItem from="1545959080456" duration="8000" />
       <workItem from="1546025764001" duration="7470000" />
       <workItem from="1546105456897" duration="8181000" />
-      <workItem from="1546233556552" duration="20746000" />
+      <workItem from="1546233556552" duration="20886000" />
+      <workItem from="1546383775644" duration="3623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44044000" />
+    <option name="totallyTimeSpent" value="47807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.12992546" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12992546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,8 +373,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38506305" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4228904" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18816683" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22405432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -439,6 +420,12 @@
           <line>55</line>
           <properties />
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Day29/src/BitwisePractice/BitWise.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -667,9 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="30" column="78" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -677,9 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,9 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,15 +729,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day28/src/RegExPatternsandIntrotoDatabases/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-302">
+        <state relative-caret-position="23">
           <caret line="34" column="23" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -774,6 +749,28 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day29/src/BitwisePractice/BitWise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day29/src/bitwiseAND/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
         </state>
       </provider>
     </entry>
